@@ -12,8 +12,8 @@
 
 
 ### Install dependencies
-""" pip install -r requirements.txt """
+``` pip install -r requirements.txt ```
 
 
 ### Run Dashboard
-""" streamlit run dashboard/dashboard.py """
+``` streamlit run dashboard/dashboard.py ```
