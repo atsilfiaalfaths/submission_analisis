@@ -6,7 +6,7 @@ sns.set(style='dark')
 
 
 
-rent_day_df = pd.read_csv("./dashboard/real_day.csv")
+rent_day_df = pd.read_csv("./dashboard/main_data.csv")
 
 datetime_columns = ["dateday"]
 for column in datetime_columns:
