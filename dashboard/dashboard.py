@@ -87,7 +87,7 @@ max_date = rent_day_df["dateday"].max()
 with st.sidebar:
     # Menambahkan logo perusahaan
     # st.image("https://github.com/dicodingacademy/assets/raw/main/logo.png")
-    st.image("https://raw.githubusercontent.com/atsilfiaalfaths/submission_analisis/main/dashboard/abr.png?token=GHSAT0AAAAAACJYSEDZHBAI3AELK6O6PS7GZKZTW2A")
+    st.image("https://raw.githubusercontent.com/atsilfiaalfaths/submission_analisis/main/dashboard/abr.png?token=GHSAT0AAAAAACJYSEDYBYFW2MJX5OWZSA7CZLAULSQ")
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
         label='Range Waktu',
