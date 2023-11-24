@@ -1,12 +1,15 @@
+import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import streamlit as st
+
 sns.set(style='dark')
 
 
 
-rent_day_df = pd.read_csv("./dashboard/main_data.csv")
+# rent_day_df = pd.read_csv("./dashboard/main_data.csv")
+rent_day_df = pd.read_csv("https://raw.githubusercontent.com/atsilfiaalfaths/submission_analisis/main/dashboard/main_data.csv?token=GHSAT0AAAAAACJYSEDYVQQCUOWHSBZFTMU6ZLATUWQ")
+
 
 datetime_columns = ["dateday"]
 for column in datetime_columns:
