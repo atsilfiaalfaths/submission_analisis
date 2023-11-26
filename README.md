@@ -17,3 +17,6 @@
 
 ### Run Dashboard
 ``` streamlit run dashboard/dashboard.py ```
+
+### dashboard link you can click below:
+https://atbr-atsilfia.streamlit.app/
