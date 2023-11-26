@@ -8,7 +8,7 @@
 * Bagaimana pengaruh musim (sesaon) terhadap terhadap jumlah penyewa berdasarkan user register dan casual?
 * Bagaimana kondisi jumlah penyewa pada working day , holiday?
 * Bagaimana sebaran waktu berdasarkan hari yang mempengaruhi banyaknya penyewa?
-* 6Bagaimana pengaruh temp, atemp dan humidity terhadap jumlah penyewa?
+* Bagaimana pengaruh temp, atemp dan humidity terhadap jumlah penyewa?
 
 
 ### Install dependencies
