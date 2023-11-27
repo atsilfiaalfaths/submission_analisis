@@ -4,11 +4,11 @@
 
 ## Pertanyaan Bisnis
 * Bagaimana trend sewa sepeda dari waktu ke waktu?
-* Bagaimana pengaruh cuaca (weather) terhadap terhadap jumlah penyewa berdasarkan user register dan casual?
-* Bagaimana pengaruh musim (sesaon) terhadap terhadap jumlah penyewa berdasarkan user register dan casual?
+* Bagaimana pengaruh cuaca (weather) terhadap terhadap jumlah penyewa?
+* Bagaimana pengaruh musim (sesaon) terhadap terhadap jumlah penyewa?
 * Bagaimana kondisi jumlah penyewa pada working day , holiday?
-* Bagaimana sebaran waktu berdasarkan hari yang mempengaruhi banyaknya penyewa?
-* Bagaimana pengaruh temp, atemp dan humidity terhadap jumlah penyewa?
+* Rata-rata pengendara bersepeda paling tinggi pada waktu kapan?
+* Bagaimana pengaruh temp, atemp dan humidity, windspeed terhadap jumlah penyewa?
 
 
 ### Install dependencies
